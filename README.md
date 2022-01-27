@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! 👋 My name is Kevin Patyk.
 
-<!--
-**Kevin-Patyk/Kevin-Patyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my Master's degree in Methodology and Statistics at Utrecht University.
+- 🌱 I’m currently learning text summarization, machine learning algorithms, techniques in dimensionality reduction, and causal inference.
+- 😄 I'm interested in applied data science, machine learning, missing data analysis, and causal inference.
+- 📫 You can reach me at k.c.patyk@students.uu.nl. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My GitHub Stats:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
