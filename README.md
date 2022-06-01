@@ -1,9 +1,9 @@
 ### Hi there! 👋 My name is Kevin Patyk.
 
-- 🔭 I’m currently working on my Master's degree in Methodology and Statistics at Utrecht University.
-- 🌱 I’m currently learning text summarization, machine learning algorithms, techniques in dimensionality reduction, and causal inference.
-- 😄 I'm interested in applied data science, machine learning, missing data analysis, and causal inference.
-- 📫 You can reach me at k.c.patyk@students.uu.nl. 
+- 🔭 I have completed my Master's degree in Methodology and Statistics at Utrecht University.
+- 🌱 I’m currently learning text summarization, machine learning algorithms, techniques in dimensionality reduction, and reinforcement learning.
+- 😄 I'm interested in applied data science, machine learning, missing data analysis, data visualization, & data wrangling.
+- 📫 You can reach me at kvn.ptk@gmail.com
 
 ### My GitHub Stats:
 
