@@ -1,10 +1,54 @@
-<h1 align="center">Hi 👋, I'm Kevin Patyk</h1>
+<h1 align="center">Hey ✌️, I'm Kevin Patyk</h1>
 
-<h3 align="center">A passionate machine learning engineer, programmer, and data scientist currently living in the Netherlands.</h3>
+* Completed my master's degree in Statistical Methods from Utrecht University 📖 in 2022.
+* Am currently living in the Netherlands 🌷.
+* Have 2 beautiful Maine Coons 😻.
+* Am working as a machine learning engineer 💻.
+* Enjoy reading, video games, and working out 🏋️.
+* Believe in supporting mental health awareness and advocating for a future where everyone has access to the care they need 💙.
 
-## Technologies I Use:
+<p align="center">
+  <img src="https://mystickermania.com/cdn/stickers/memes/ketnipz-relaxing-cat-meme-512x512.png" alt="Ketnipz Relaxing Cat Meme" width="150" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+<h2 align="center">Tech Stack ⚙️</h2>
 
+<p align="center">
+  <a target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  </a>
+  <a target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+  <a target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  </a>
+  <a target="_blank" style="text-decoration: none; outline: none;">
+    <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
+  </a>
+</p>
 
+<h2 align="center">Current Projects 💡</h2>
+
+[ML-obster](https://github.com/Kevin-Patyk/ml-obster) (`mlobster`) 🦞, which aims to recreate the very well-known `sklearn` machine learning package, but in Rust 🦀. This project is purely educational 🧠. I hope to learn:
+
+* The mathametics behind machine learning algorithms.
+* Package development and advanced programming in Rust.
+* More software engineering best practices and principles.
+* How to create and deploy packahes in both Rust 🦀 and Python 🐍.
+* How to handle CI/CD pipelines in Rust and for package development ♻️.
+
+<h2 align="center">Publications 📖</h2>
+
+<h4 align="center">
+  <a href="https://scholar.google.nl/citations?user=_HH8v1cAAAAJ&hl=en" target="_blank">Google Scholar</a>
+</h4>
