@@ -39,13 +39,18 @@
 
 <h2 align="center">Current Projects 💡</h2>
 
-[ML-obster](https://github.com/Kevin-Patyk/ml-obster) (`mlobster`) 🦞, which aims to recreate the very well-known `sklearn` machine learning package, but in Rust 🦀. This project is purely educational 🧠. I hope to learn:
+[ML-obster](https://github.com/Kevin-Patyk/ml-obster) (`mlobster`)🦞, which aims to recreate the very well-known `sklearn` machine learning package, but in Rust🦀. This project is purely educational🧠. I hope to learn:
 
 * The mathametics behind machine learning algorithms.
 * Package development and advanced programming in Rust.
 * More software engineering best practices and principles.
-* How to create and deploy packahes in both Rust 🦀 and Python 🐍.
-* How to handle CI/CD pipelines in Rust and for package development ♻️.
+* How to create and deploy packahes in both Rust🦀 and Python🐍.
+* How to handle CI/CD pipelines in Rust and for package development♻️.
+
+[Clamsform](https://github.com/Kevin-Patyk/clamsform) (`clamsform`)🐚, which aims to create a wrapper for `polars` to provide preprocessing capabilities such as feature scaling and transformations in Rust🦀. This project is also purely educational🧠. I hope to learn:
+
+* More about `polars`.
+* Similar goals as to `mlobster`.
 
 <h2 align="center">Publications 📖</h2>
 
