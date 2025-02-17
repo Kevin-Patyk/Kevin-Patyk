@@ -39,12 +39,12 @@
 
 <h2 align="center">Current Projects 💡</h2>
 
-[Clamsform](https://github.com/Kevin-Patyk/clamsform) (`clamsform`)🐚, which aims to create a wrapper for `polars` to provide preprocessing capabilities such as feature scaling and transformations in Rust🦀. This project is also purely educational🧠. I hope to learn:
+[Clamsform](https://github.com/Kevin-Patyk/clamsform) (`clamsform`) 🐚, which aims to create a wrapper for `polars` to provide preprocessing capabilities such as feature scaling and transformations in Rust 🦀. This project is also purely educational 🧠. I hope to learn:
 
 * More about `polars` and its backend.
 * Package development and advanced programming in Rust.
 * More software engineering best practices and principles.
-* How to create and deploy packages in both Rust🦀 and Python🐍.
+* How to create and deploy packages in both Rust 🦀 and Python 🐍.
 
 <h2 align="center">Publications 📖</h2>
 
