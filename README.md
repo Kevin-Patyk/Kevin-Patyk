@@ -1,6 +1,6 @@
 <h1 align="center">Hey ✌️, I'm Kevin Patyk</h1>
 
-* Completed my master's degree in Statistical Methods from Utrecht University 📖 in 2022.
+* Completed my master's degree in Statistical Methods from Utrecht University 📖.
 * Am currently living in the Netherlands 🌷.
 * Have 2 beautiful Maine Coons 😻.
 * Am working as a machine learning engineer 💻.
