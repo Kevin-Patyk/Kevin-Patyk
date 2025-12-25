@@ -5,8 +5,8 @@
 * Have 2 beautiful Maine Coons 😻.
 * Am working as a machine learning engineer 💻.
 * Enjoy reading, video games, and working out 🏋️.
-* Believe in supporting mental health awareness and advocating for a future where everyone has access to the care they need 💙.
-* Working in improving my skills in Rust 🦀. 
+* Working in improving my skills in Rust 🦀.
+* Believe in supporting mental health awareness 💙.
 
 <p align="center">
   <img src="https://mystickermania.com/cdn/stickers/memes/ketnipz-relaxing-cat-meme-512x512.png" alt="Ketnipz Relaxing Cat Meme" width="150" />
