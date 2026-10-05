@@ -3,11 +3,11 @@
 * Completed my master's degree in Statistical Methods from Utrecht University 📖.
 * Am currently living in the Netherlands 🌷.
 * Have 2 beautiful Maine Coons 😻.
-* Am working as a machine learning engineer at [Cauchy](https://www.linkedin.com/company/cauchy-io/home/) 💻.
 * Enjoy reading, video games, and working out 🏋️.
+* Believe in supporting mental health awareness 💙.
+* Am working as a machine learning engineer at [Cauchy](https://www.linkedin.com/company/cauchy-io/home/) 💻.
 * Working in improving my skills in Rust 🦀 by contributing to [Polars](https://github.com/pola-rs/polars/commits/main/?author=Kevin-Patyk) 🐻‍❄️.
 * Learning about GPU programming in Rust 🦀 using [cuda-oxide](https://github.com/NVIDIA/cuda-rust).
-* Believe in supporting mental health awareness 💙.
 
 <p align="center">
   <img src="https://mystickermania.com/cdn/stickers/memes/ketnipz-relaxing-cat-meme-512x512.png" alt="Ketnipz Relaxing Cat Meme" width="150" />
