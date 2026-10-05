@@ -1,10 +1,15 @@
 <h1 align="center">Hey ✌️, I'm Kevin Patyk</h1>
 
+### Personal:
+
 * Completed my master's degree in Statistical Methods from Utrecht University 📖.
 * Am currently living in the Netherlands 🌷.
 * Have 2 beautiful Maine Coons 😻.
 * Enjoy reading, video games, and working out 🏋️.
 * Believe in supporting mental health awareness 💙.
+
+### Professional:
+
 * Am working as a machine learning engineer at [Cauchy](https://www.linkedin.com/company/cauchy-io/home/) 💻.
 * Working in improving my skills in Rust 🦀 by contributing to [Polars](https://github.com/pola-rs/polars/commits/main/?author=Kevin-Patyk) 🐻‍❄️.
 * Learning about GPU programming in Rust 🦀 using [cuda-oxide](https://github.com/NVIDIA/cuda-rust).
