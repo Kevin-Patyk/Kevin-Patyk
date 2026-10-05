@@ -12,7 +12,7 @@
 
 * Am working as a machine learning engineer at [Cauchy](https://www.linkedin.com/company/cauchy-io/home/) 💻.
 * Working in improving my skills in Rust 🦀 by contributing to [Polars](https://github.com/pola-rs/polars/commits/main/?author=Kevin-Patyk) 🐻‍❄️.
-* Learning about GPU programming in Rust 🦀 using [cuda-oxide](https://github.com/NVIDIA/cuda-rust).
+* Learning about GPU programming (CUDA) in Rust 🦀 using [cuda-oxide](https://github.com/NVIDIA/cuda-rust) through reading and [practical application](https://github.com/Kevin-Patyk/corrosion).
 
 <p align="center">
   <img src="https://mystickermania.com/cdn/stickers/memes/ketnipz-relaxing-cat-meme-512x512.png" alt="Ketnipz Relaxing Cat Meme" width="150" />
