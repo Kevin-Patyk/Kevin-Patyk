@@ -5,7 +5,7 @@
 * Have 2 beautiful Maine Coons 😻.
 * Am working as a machine learning engineer at [Cauchy](https://www.linkedin.com/company/cauchy-io/home/) 💻.
 * Enjoy reading, video games, and working out 🏋️.
-* Working in improving my skills in Rust 🦀 by contributing to Polars 🐻‍❄️.
+* Working in improving my skills in Rust 🦀 by contributing to [Polars](https://github.com/pola-rs/polars/commits/main/?author=Kevin-Patyk) 🐻‍❄️.
 * Learning about GPU programming in Rust 🦀 using [cuda-oxide](https://github.com/NVIDIA/cuda-rust).
 * Believe in supporting mental health awareness 💙.
 
